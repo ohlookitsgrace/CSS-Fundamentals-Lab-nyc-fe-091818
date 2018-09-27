@@ -27,6 +27,9 @@ p #feature-property {
 #details div {
   display:block;
   float:left;
-  
 }
 
+#details>div {
+  background-color:red;
+  
+}
